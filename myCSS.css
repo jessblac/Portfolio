@@ -48,6 +48,7 @@ a:hover, a:active, a:focus {
 	float: left;
 	width: 100%;
 	text-align: left;
+	font:Brush Script MT, Brush Script Std, cursive;
 }
 .footer {
 	background: #2EEAFF;
